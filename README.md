@@ -1,8 +1,8 @@
-# DIP template for the C.H.I.P. $9 Computer
+# DIP Protoboard for CHIP
 
-Simple protoboard DIP daughter board for when you need something more durable than a breadboard.
+This is a simple protoboard DIP daughter board for when you need something more durable than a breadboard.
 
-### CHIP DIP KiCad Template
+## Design
 
 This project was created using the <a href="https://github.com/wickerbox/wickerlib/tree/master/templates/chip-dip-shield">CHIP DIP KiCad template</a> from Wickerlib. 
 
@@ -12,7 +12,7 @@ The protoboard holes are connected where indicated by exposed copper, for easier
 
 <img src="chip-dip-oshpreview.png">
 
-**Bill of Materials**
+## Bill of Materials
 
 Buying bare boards from OSH Park costs $17.50 for a set of three. You'll want to buy the headers separately.
 
