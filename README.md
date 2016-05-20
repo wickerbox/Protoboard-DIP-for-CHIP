@@ -12,6 +12,16 @@ The protoboard holes are connected where indicated by exposed copper, for easier
 
 <img src="chip-dip-oshpreview.png">
 
+<img src="dip1.png">
+
+<img src="dip2.png">
+
+<img src="dip3.png">
+
+<img src="dip4.png">
+
+<img src="dip5.png">
+
 ## Bill of Materials
 
 Buying bare boards from OSH Park costs $17.50 for a set of three. You'll want to buy the headers separately.
