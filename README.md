@@ -24,7 +24,7 @@ The protoboard holes are connected where indicated by exposed copper, for easier
 
 ## Bill of Materials
 
-Buying bare boards from OSH Park costs $17.50 for a set of three. You'll want to buy the headers separately.
+Buying bare boards from OSH Park costs $17.50 for a set of three. I've <a href="https://oshpark.com/shared_projects/sN7i0l9V">shared the boards at OSH Park</a>. You can buy a set of three for $17.50. You'll want to buy the headers separately.
 
 For a non-stackable version, you can just use two standard 0.1" (2.54mm) pitch 1x40 headers, each snapped in half. 
 
