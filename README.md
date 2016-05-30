@@ -4,7 +4,7 @@ This is a simple protoboard DIP daughter board for when you need something more 
 
 ## Design
 
-This project was created using the <a href="https://github.com/wickerbox/wickerlib/tree/master/templates/chip-dip-shield">CHIP DIP KiCad template</a> from Wickerlib. 
+This project was created using the <a href="https://github.com/wickerbox/wickerlib/tree/master/templates/chip-dip-2layer">CHIP DIP KiCad template</a> from Wickerlib. 
 
 The protoboard holes are connected where indicated by exposed copper, for easier wire routing and soldering.  
 
